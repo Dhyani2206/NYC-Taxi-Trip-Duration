@@ -1,7 +1,3 @@
-<p align="center"><img src ="https://github.com/yennanliu/NYC_Taxi_Trip_Duration/blob/master/data/nyc_taxi.jpg"></p>
-
-<p align="center"><img src ="https://github.com/yennanliu/NYC_Taxi_Trip_Duration/blob/master/data/submit_log.png" ></p>
-
 <h1 align="center"><a href="https://www.kaggle.com/c/nyc-taxi-trip-duration">NYC Taxi Trip Duration</a></h1>
 
 <p align="center">
