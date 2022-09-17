@@ -1,0 +1,8 @@
+pytest 
+pandas 
+numpy 
+sklearn
+tpot 
+#xgboost
+coveralls
+PyYAML
